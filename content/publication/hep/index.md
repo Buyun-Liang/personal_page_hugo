@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: '/33SNH_027-Siepmann.pdf'
+url_pdf: 'https://fair4hep.github.io/'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
