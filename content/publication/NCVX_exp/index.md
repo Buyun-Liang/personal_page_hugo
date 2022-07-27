@@ -25,13 +25,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
+publication: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
 publication_short: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Optimizing nonsmooth problems, especially those with nonsmooth constraints, is hard -- a nonsmooth problem is usually not differentiable at its minimizers, and problems with complicated constraints cannot be handled by the typical structured methods. Although the nonsmooth constrained problem is a curse in optimization, it is a blessing in machine learning and deep learning. Many machine and deep learning problems involve nonsmoothness due to the existence of nonsmooth activation function in the neural network architecture, and also have constraints due to various reasons -- the adversarial training of visual recognition tasks involves nonsmooth constraints to ensure the generated image is not far away from the original one; the physics informed neural networks represent the boundary conditions in the physics problems as the constraints; the orthogonal constraints on the recurrent kernel play an important role in preventing gradient exploding and vanishing in RNN. In this paper, we will introduce our recent research about the importance of this type of problem and how to solve them.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
