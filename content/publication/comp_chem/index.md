@@ -1,20 +1,23 @@
 ---
-title: 'NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning'
+title: 'Effect of Non-Condensable Gas on the Thermophysical
+Properties of Bubbly Water and on Bubble Collapse
+Dynamics Probed by Molecular Simulations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - J. Ilja Siepmann
+  - Jingyi L. Chen
   - buyun
-  - Tim Mitchell
-  - Ju Sun
+  - Krishnan Mahesh
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-12-26T00:00:00Z'
+date: '2020-04-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +31,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-# publication_short: In *ICW*
+publication_short: 33rd Symposium on Naval Hydrodynamics, Osaka, Japan, 18-23 October 2020
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -45,14 +48,16 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2111.13984'
-url_code: 'https://github.com/sun-umn/NCVX'
+url_pdf: '/33SNH_027-Siepmann.pdf'
+# url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
