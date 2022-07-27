@@ -76,4 +76,4 @@ Broadly, my research is about optimization in machine/deep learning and machine/
 Prior to this, I obtained my first M.S. degree in Materials Science at the University of Minnesota, Twin Cities, and my B.S. degree from the School of Physics, Nanjing University.
 Before joining Prof. Ju Sun's group, I worked as a research assistant in Prof. J. Ilja Siepmann's computational chemistry group.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
