@@ -16,7 +16,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Misc
+  - name: Powerlifting
     url: '#misc'
     weight: 40
 
