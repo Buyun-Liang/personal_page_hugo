@@ -56,12 +56,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/buyun-liang/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: CV/Buyun_Liang_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ''
@@ -77,4 +77,4 @@ Broadly, my research is about **deep learning**, **optimization**, and **robustn
 Prior to this, I obtained my first M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), and my B.S. degree from the [School of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp).
 Before joining [Prof. Ju Sun](https://sunju.org/)'s group, I worked as a research assistant in [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/)'s computational chemistry group.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV/Buyun_Liang_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
