@@ -26,13 +26,13 @@ interests:
 education:
   courses:
     - course: M.S. in Computer Science
-      institution: University of Minnesota, Twin Cities
+      institution: University of Minnesota, Minneapolis, MN, USA 🇺🇸
       year: 2020 - Present
     - course: M.S. in Materials Science
-      institution: University of Minnesota, Twin Cities
+      institution: University of Minnesota, Minneapolis, MN, USA 🇺🇸
       year: 2018 - 2020
     - course: B.S. in Physics
-      institution: Nanjing University
+      institution: Nanjing University, Nanjing, China 🇨🇳
       year: 2014 - 2018
 
 # Social/Academic Networking
