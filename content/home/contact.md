@@ -53,8 +53,8 @@ content:
       link: 'https://github.com/Buyun-Liang'
     - icon: instagram
       icon_pack: fab
-      name: My training logs
-      link: 'https://www.instagram.com/buyun_liang/'
+      name: My training log
+      link: 'https://www.instagram.com/buyunliang.lifts/'
 
 design:
   columns: '2'
