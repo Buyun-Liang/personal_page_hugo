@@ -70,10 +70,11 @@ social:
 highlight_name: true
 ---
 
-TODO 
-I am a M.S. student in the Department of Computer Science & Engineering at the University of Minnesota, Twin Cities, also work as a graduate research assistant in Prof. Ju Sun's group.
-Broadly, my research is about optimization in machine/deep learning and machine/deep learning in vision. Specifically, I am interested in: User-friendly and scalable software for nonconvex optimization in machine/deep learning. Deep Learning with deterministic and stochastic constraints. Learning in distributed and collaborative environments.
-Prior to this, I obtained my first M.S. degree in Materials Science at the University of Minnesota, Twin Cities, and my B.S. degree from the School of Physics, Nanjing University.
-Before joining Prof. Ju Sun's group, I worked as a research assistant in Prof. J. Ilja Siepmann's computational chemistry group.
+I am a M.S. student in the [Department of Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), also work as a graduate research assistant in [Prof. Ju Sun](https://sunju.org/)'s group.
+
+Broadly, my research is about **deep learning**, **optimization**, and **robustness**. Specifically, I am interested in: 1). **User-friendly and scalable software for constrained optimization in deep learning**; 2). **Robustness issue in computer vision**; 3). **Deep learning with non-trivial constraints**.
+
+Prior to this, I obtained my first M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), and my B.S. degree from the [School of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp).
+Before joining [Prof. Ju Sun](https://sunju.org/)'s group, I worked as a research assistant in [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/)'s computational chemistry group.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
