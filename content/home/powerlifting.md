@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - misc
+      - powerlifting
     tag: ''
     category: ''
     publication_type: ''
