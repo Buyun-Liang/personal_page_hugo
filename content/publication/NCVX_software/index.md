@@ -41,11 +41,14 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2111.13984
+- name: Website
+  url: https://ncvx.org/
 
-url_pdf: 'https://arxiv.org/abs/2111.13984'
+
+url_pdf: ''
 url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''

@@ -44,11 +44,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: /33SNH_027-Siepmann.pdf
 
-url_pdf: '/33SNH_027-Siepmann.pdf'
+url_pdf: ''
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
