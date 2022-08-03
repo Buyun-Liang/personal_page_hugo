@@ -2,7 +2,7 @@
 
 **[Jul 26, 2022]** [*NCVX*](https://github.com/sun-umn/NCVX) [*PyGRANSO*](https://github.com/sun-umn/PyGRANSO) v1.2.0 released. Check our [Change Log](https://github.com/sun-umn/PyGRANSO/blob/main/CHANGELOG.md) here!
 
-**[May 29, 2022]** I am funded by the [FAIR4HEP Project](https://fair4hep.github.io/) to make FAIR (Findable, Accessible, Interoperable, and Reusable) AI models for high-energy physics data.
+**[May 29, 2022]** I am funded by the [FAIR4HEP Grant](https://fair4hep.github.io/) to make FAIR (Findable, Accessible, Interoperable, and Reusable) AI models for high-energy physics data.
 
 **[Feb 20, 2022]** [*NCVX*](https://github.com/sun-umn/NCVX) [*PyGRANSO*](https://github.com/sun-umn/PyGRANSO) v1.1.0 released. Join our [NCVX PyGRANSO Forum](https://groups.google.com/a/umn.edu/g/ncvx) for more information!
 
