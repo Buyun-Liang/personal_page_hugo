@@ -29,8 +29,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
-# publication_short: 33rd Symposium on Naval Hydrodynamics, Osaka, Japan, 18-23 October 2020
+publication:  In submission to Nature Machine Intelligence, 2022 
+publication_short:  In submission to Nature Machine Intelligence, 2022 
 
 abstract: The Lead-Tungstate crystals in ECAL in Electromagnetic Calorimeters are used for measuring the energy of electrons and photons produced in the proton-proton collisions at CMS. The transparencies of the crystals varies with the radiation dose received by the crystals. The transparencies are measured by the Laser Monitoring system at CMS continuously during the LHC running to estimate the radiation damages in every crystal. The behaviour of the transparencies is non-linear as a function of time and the laser response in the future becomes difficult to predict using analytical methods. In this paper, we present application of LSTM based Neural Networks for making predictions.
 
