@@ -46,13 +46,15 @@ featured: true
 links:
 - name: Website
   url: https://ncvx.org/
+- name: ICCOPT22 Slides
+  url: '/ICCOPT22-NCVX.pdf'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/ICCOPT22-NCVX.pdf'
+# url_slides: '/ICCOPT22-NCVX.pdf'
 url_source: ''
 url_video: ''
 

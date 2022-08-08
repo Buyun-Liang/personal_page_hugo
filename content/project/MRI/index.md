@@ -1,7 +1,7 @@
 ---
 title: Robustness of Deep Learning in MRI Reconstruction
 summary: Improved the stability of deep learning model on MRI reconstruction with adversarial training
-tags: ["Applications"]
+tags: ["Applications","Selected"]
 date: '2020-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
