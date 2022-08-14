@@ -49,7 +49,7 @@ content:
       link: 'https://www.linkedin.com/in/buyun-liang/'  
     - icon: github
       icon_pack: fab
-      name: Check out some code
+      name: GitHub
       link: 'https://github.com/Buyun-Liang'
     - icon: instagram
       icon_pack: fab

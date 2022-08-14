@@ -43,9 +43,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Website
+  url: https://fair-umn.github.io/FAIR-UMN-Docs/
+- name: Code
+  url: https://github.com/FAIR-UMN/FAIR-UMN-ECAL
 
 # url_pdf: 'https://fair4hep.github.io/'
 # url_code: 'https://github.com/sun-umn/NCVX'
