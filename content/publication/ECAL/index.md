@@ -12,9 +12,12 @@ authors:
   - Ju Sun
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2022-07-25T00:00:00Z'
 doi: ''
