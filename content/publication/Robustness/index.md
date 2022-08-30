@@ -45,14 +45,14 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: ICCOPT22 Slides
-  url: '/ICCOPT22-NCVX.pdf'
+  url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/paper/robustness/Robustness_slides.pdf'
+url_slides: 'publication/Robustness/Robustness_slides.pdf'
 url_source: ''
 url_video: ''
 

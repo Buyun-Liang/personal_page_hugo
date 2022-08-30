@@ -40,7 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'USAPL2022.mp4'
+url_video: '/powerlifting/USAPL2022.mp4'
 
 ---
 

@@ -40,7 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'Oct2018RaisetheBarUMN.mp4'
+url_video: '/powerlifting/Oct2018RaisetheBarUMN.mp4'
 
 ---
 

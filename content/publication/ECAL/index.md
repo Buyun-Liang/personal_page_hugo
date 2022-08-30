@@ -57,7 +57,7 @@ links:
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/paper/ECAL/slides.pdf'
+url_slides: 'publication/ECAL/slides.pdf'
 url_source: ''
 url_video: ''
 

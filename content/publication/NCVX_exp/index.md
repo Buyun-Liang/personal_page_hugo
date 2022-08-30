@@ -47,7 +47,7 @@ links:
 - name: Website
   url: https://ncvx.org/
 - name: ICCOPT22 Slides
-  url: '/ICCOPT22-NCVX.pdf'
+  url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'

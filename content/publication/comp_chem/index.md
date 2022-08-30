@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: /33SNH_027-Siepmann.pdf
+  url: publication/comp_chem/33SNH_027-Siepmann.pdf
 
 url_pdf: ''
 # url_code: 'https://github.com/sun-umn/NCVX'

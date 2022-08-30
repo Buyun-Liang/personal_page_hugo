@@ -40,7 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'mock2022Jun.mp4'
+url_video: '/powerlifting/mock2022Jun.mp4'
 
 ---
 
