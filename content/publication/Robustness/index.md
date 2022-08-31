@@ -29,8 +29,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
-publication_short: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
+publication: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
+publication_short: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
 
 abstract: Empirical evaluation of neural network models against adversarial perturbations entail solving nontrivial constrained optimization problems. Practical algorithms rely on numerical methods such as projected gradient and iterative linearization to find suboptimal points, leading to overestimation of the robust accuracy. To reliably solve these problems, we describe an algorithmic framework that blends a state-of-the-art constrained-optimization solver PyGRANSO, with a constraint-folding technique, called PWCF. PWCF can handle general attack models that are inaccessible to existing algorithms. Empirically, PWCF finds good-quality solutions with reasonable speed. Moreover, we explore the distinct patterns of the solutions found with various combinations of the loss, distance, and optimization algorithm, and discuss the implications of these patterns on robustness evaluation.  
 

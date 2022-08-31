@@ -28,8 +28,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
-publication_short: In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
+publication: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
+publication_short: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022 
 
 abstract: Nonsmoothness is common in deep learning, thanks to nonsmooth activations such as ReLU and nonsmooth losses. Constraints are new and increasingly trendy in deep learning, stimulated by, e.g.,  neuro-symbolic AI that tries to incorporate knowledge and reasoning, scientific applications that need to respect physical laws and constraints, and trustworthy AI that performs robust optimization over complicated perturbation sets. In this talk, I’ll describe our recent efforts to develop the right techniques in solving deep learning problems with highly nontrivial, usually nonsmooth, constraints, and highlight the NCVX (https://ncvx.org/) software package that we develop, the first of its kind ever built, to lower the barrier of practitioners needing to solve these problems in their applications—taking advantage of autodifferentiation and GPU computing. 
 

@@ -32,8 +32,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:  In submission to Nature Machine Intelligence, 2022 
-publication_short:  In submission to Nature Machine Intelligence, 2022 
+publication:  In preparation for Nature Machine Intelligence, 2022 
+publication_short:  In preparation for Nature Machine Intelligence, 2022 
 
 abstract: The 72,000 lead tungstate crystals in CMS experiment at the CERN Large Hadron Collider are used to measure the energy of electrons and photons produced in the proton-proton collisions. The optical transparency of the crystals degrades slowly with radiation dose due to the beam-beam collisions. The transparency of each crystal is monitored with a laser monitoring system that tracks changes in the optical properties of the crystals due to radiation from the collision products. Predicting the optical transparency of the crystals, both in the short term and in the long term, is a critical question for the CMS experiment. We describe here the public data release, following FAIR principles, of the crystal monitoring data collected by the CMS Collaboration between 2016 and 2018. Besides describing The dataset and its access, and the problems that can be addressed with it, are described as well as an example solution based on Long- Short-Term Memory neural network that was developed to predict future behaviour of the crystals.
 
