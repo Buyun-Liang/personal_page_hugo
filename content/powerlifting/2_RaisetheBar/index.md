@@ -30,7 +30,7 @@ featured: false
 image:
   caption: ''
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 
