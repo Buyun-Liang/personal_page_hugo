@@ -1,5 +1,5 @@
 ---
-title: Summer 2022 Mock Competetion 
+title: Summer 2022 Mock Competition 
 subtitle: June 11, 2022 | Minneapolis, MN
 
 # Summary for listings and search engines

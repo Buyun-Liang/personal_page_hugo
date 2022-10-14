@@ -1,5 +1,5 @@
 ---
-title: Fall 2022 Mock Competetion 
+title: Fall 2022 Mock Competition 
 subtitle: October 08, 2022 | Minneapolis, MN
 
 # Summary for listings and search engines
