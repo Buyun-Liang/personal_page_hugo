@@ -1,9 +1,9 @@
 ---
-title: Raise the Bar -- Powerlifting
+title: 2018 Raise the Bar -- Powerlifting
 subtitle: Oct 13, 2018 | Minneapolis, MN
 
 # Summary for listings and search engines
-summary: Oct 13, 2018 | Minneapolis, MN
+summary: "Body Weight: 75.3kg. Squat: 165.6kg; Bench Press: 102.1kg; Deadlift: 172.4kg. Total 440kg. "
 
 
 
@@ -31,7 +31,7 @@ image:
   caption: ''
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
 
 
 url_pdf: ''
@@ -45,15 +45,15 @@ url_video: '/powerlifting/Oct2018RaisetheBarUMN.mp4'
 
 ---
 
-**Body Weight**: 75.3 kg (166 lbs)
+**Body Weight:** 75.3 kg (166 lbs)
 
-**Squat**
+**Squat:**
 142.9 kg (315 lbs) ✓ 156.4 kg (345 lbs) ✓ 165.6 kg (365 lbs) ✓
 
-**Bench Press**
+**Bench Press:**
 83.9 kg (185 lbs) × 102.1 kg (225 lbs) ✓ 106.6 kg (235 lbs) ×
 
-**Deadlift**
+**Deadlift:**
 149.7 kg (330 lbs) ✓ 165.6 kg (365 lbs) ✓ 172.4 kg (380 lbs) ✓
 
-**Total**: 425 kg (940 lbs)
+**Total:** 440 kg (970 lbs)
