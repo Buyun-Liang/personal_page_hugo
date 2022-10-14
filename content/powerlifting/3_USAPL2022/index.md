@@ -12,6 +12,7 @@ summary: February 12, 2022 | Champlin, MN
 # Link this post with a project
 projects: []
 
+show_date: false
 # # Date published
 date: '2022-02-12T00:00:00Z'
 

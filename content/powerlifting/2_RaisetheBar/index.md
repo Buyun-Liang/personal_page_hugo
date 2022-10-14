@@ -14,6 +14,7 @@ projects: []
 
 # # Date published
 date: '2018-10-13T00:00:00Z'
+show_date: false
 
 # # # Date updated
 # lastmod: '2022-07-25T00:00:01Z'

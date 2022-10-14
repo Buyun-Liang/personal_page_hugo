@@ -12,8 +12,10 @@ summary: June 11, 2022 | Minneapolis, MN
 # Link this post with a project
 projects: []
 
+show_date: false
 # # Date published
 date: '2022-06-11T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # # # Date updated
 # lastmod: '2022-07-25T00:00:01Z'

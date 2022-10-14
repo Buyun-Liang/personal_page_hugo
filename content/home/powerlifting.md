@@ -13,6 +13,8 @@ title: Powerlifting
 subtitle:
 
 content:
+  # # Page type to display. E.g. post, event, publication...
+  # page_type: event
   # Filter on criteria
   filters:
     folders:
@@ -33,6 +35,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: Showcase
-  columns: '2'
+  view: 2
+  # columns: '2'
 ---

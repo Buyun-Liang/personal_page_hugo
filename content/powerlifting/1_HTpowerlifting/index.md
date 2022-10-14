@@ -1,9 +1,9 @@
 ---
 title: Han Tang Powerlifting (汉唐杯第四届大陆健力纪录赛)
-subtitle: Apr 21, 2018 | Qufu, Shandong, China
+subtitle: Apr 21, 2018 | Qufu, Shandong, China 
 
 # Summary for listings and search engines
-summary: Apr 21, 2018 | Qufu, Shandong, China
+summary: Apr 21, 2018 | Qufu, Shandong, China 
 
 
 
@@ -14,6 +14,7 @@ projects: []
 
 # # Date published
 date: '2018-04-21T00:00:00Z'
+show_date: false
 
 # # # Date updated
 # lastmod: '2022-07-25T00:00:01Z'
