@@ -43,6 +43,10 @@ content:
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: graduation-cap
+      icon_pack: fas
+      name: Google Scholar
+      link: 'https://scholar.google.com/citations?user=f64jADwAAAAJ&hl=en&oi=ao'  
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
@@ -53,8 +57,9 @@ content:
       link: 'https://github.com/Buyun-Liang'
     - icon: instagram
       icon_pack: fab
-      name: My training log
+      name: Powerlifting Training Log
       link: 'https://www.instagram.com/buyunliang.lifts/'
+
 
 design:
   columns: '2'

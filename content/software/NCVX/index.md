@@ -20,10 +20,10 @@ image:
   preview_only: false
 
 links:
-  - icon: 
-    icon_pack: fab
-    name: Paper
-    url: https://arxiv.org/abs/2111.13984
+  # - icon: 
+  #   icon_pack: fab
+  #   name: Paper
+  #   url: https://arxiv.org/abs/2111.13984
   - icon: 
     icon_pack: fab
     name: Website
@@ -31,11 +31,11 @@ links:
   - icon: 
     icon_pack: fab
     name: ICCOPT22 Slides
-    url: /ICCOPT22-NCVX.pdf
+    url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
 
 url_code: 'https://github.com/sun-umn/NCVX'
 url_pdf: 
-url_slides: '/paper/robustness/Robustness_slides.pdf'
+url_slides: '/publication/Robustness/Robustness_slides.pdf'
 url_video: ''
 
 # Slides (optional).

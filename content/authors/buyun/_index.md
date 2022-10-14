@@ -32,7 +32,7 @@ education:
       institution: University of Minnesota, Minneapolis, MN, USA 🇺🇸
       year: 2018 - 2020
     - course: B.S. in Physics
-      institution: Nanjing University, Nanjing, China 🇨🇳
+      institution: Nanjing University, Nanjing, Jiangsu, China 🇨🇳
       year: 2014 - 2018
 
 # Social/Academic Networking
@@ -46,9 +46,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=f64jADwAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/Buyun-Liang

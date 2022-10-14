@@ -1,3 +1,7 @@
+**[Oct 03, 2022]** Proud to release our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) on arXiv! This is an expanded version of [our previous announcement paper](https://arxiv.org/abs/2111.13984), with four detailed examples on constrained deep learning.
+
+**[Oct 03, 2022]** Proud to release our paper [Optimization for Robustness Evaluation beyond ℓp Metrics](https://arxiv.org/abs/2210.00621) on arXiv! This is a preview of our ongoing project that numerically solves adversarial attack problems with general metrics (vs SOTA that only deals with ℓ1, ℓ2, and ℓ∞), taking advantage of our [NCVX framework](https://ncvx.org/).
+
 **[Sep 19, 2022]** To be a Reviewer for [the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)](https://aistats.org/aistats2023/).
 
 **[Jul 27, 2022]** We (speaker: [Prof. Ju Sun](https://sunju.org/)) introduced **NCVX PyGRANSO** and its practical applications and tricks in the *Nonsmooth Optimization in Machine Learning session* in the [**International Conference on Continuous Optimization (ICCOPT), 2022**](https://iccopt2022.lehigh.edu/). See the [talk slides](publication/NCVX_exp/ICCOPT22-NCVX.pdf) for more details!
