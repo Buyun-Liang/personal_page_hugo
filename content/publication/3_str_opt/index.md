@@ -31,8 +31,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
-publication_short: In preparation for International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
+publication: Under review at International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
+publication_short: Under review at International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)
 
 abstract: 
 
