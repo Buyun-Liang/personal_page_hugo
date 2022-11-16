@@ -1,8 +1,8 @@
 **[Nov 10, 2022]** Our tutorial proposal [Deep Learning with Nontrivial Constraints](publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf) has been accepted to SIAM International Conference on Data Mining (SDM23) Tutorial Program as a two-hour tutorial! 
 
-**[Oct 20, 2022]** Our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) is accepted by Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022), see our [poster](publication/NCVX_exp/NCVX_poster.png) for more details!
+**[Oct 20, 2022]** Our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) has been accepted by Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022), see our [poster](publication/NCVX_exp/NCVX_poster.png) for more details!
 
-**[Oct 20, 2022]** Our paper [Optimization for Robustness Evaluation beyond ℓp Metrics](https://arxiv.org/abs/2210.00621) is accepted by Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022), see our [poster](publication/Robustness/robustness_poster.png) for more details!
+**[Oct 20, 2022]** Our paper [Optimization for Robustness Evaluation beyond ℓp Metrics](https://arxiv.org/abs/2210.00621) has been accepted by Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022), see our [poster](publication/Robustness/robustness_poster.png) for more details!
 
 **[Oct 03, 2022]** Proud to release our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) on arXiv! This is an expanded version of [our previous announcement paper](https://arxiv.org/abs/2111.13984), with four detailed examples on constrained deep learning.
 
