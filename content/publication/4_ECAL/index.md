@@ -5,8 +5,8 @@ title: 'Using Neural Networks to Predict Radiation Damage to Lead Tungstate Crys
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Bhargav Joshi
   - buyun
+  - Bhargav Joshi
   - Taihui Li
   - Roger Rusack
   - Ju Sun
