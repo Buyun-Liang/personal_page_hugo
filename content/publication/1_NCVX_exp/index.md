@@ -49,6 +49,10 @@ links:
   url: https://ncvx.org/
 - name: ICCOPT22 Slides
   url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+- name: SDM2023 Tutorial
+  url: 'publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf'
+- name: ICASSP 2023 Tutorial
+  url: 'publication/NCVX_exp/2023_ICASSP_PyGRANSO_Tutorial.pdf'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'

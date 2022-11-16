@@ -48,7 +48,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: 'publication/ECAL/NatureMachineIntelligence_ECALXtal.pdf'
+  url: 'publication/ECAL/ECALXtalResponse.pdf'
 - name: Website
   url: https://fair-umn.github.io/FAIR-UMN-Docs/
 # - name: Code

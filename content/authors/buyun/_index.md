@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Optimization Software
-  - Robustness of Deep Learning
-  - Constrained Deep Learning
+  - Optimization for Deep Learning
+  - Robustness in Vision Recognition
+  - AI for Science & Engineering
 
 # Education to show in About widget
 education:
@@ -72,7 +72,7 @@ highlight_name: true
 
 I am a M.S. student in the [Department of Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), also work as a graduate research assistant in [Prof. Ju Sun](https://sunju.org/)'s group.
 
-Broadly, my research is about **deep learning**, **optimization**, and **robustness**. Specifically, I am interested in: 1). **User-friendly and scalable software for constrained optimization in deep learning**; 2). **Robustness issue in computer vision**; 3). **Deep learning with non-trivial constraints**.
+Broadly, my research is about **optimization for machine and deep learning**, **robustness in vision recognition** and **AI for science and engineering**. Specifically, I am interested in: 1). **User-friendly and scalable software for constrained optimization in deep learning**; 2). **Adversarial robustness in computer vision**; 3). **AI for topology optimization**; 4). **Learning from unbalanced biomedical data**.
 
 Prior to this, I obtained my first M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), and my B.S. degree from the [School of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp).
 Before joining [Prof. Ju Sun](https://sunju.org/)'s group, I worked as a research assistant in [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/)'s computational chemistry group.

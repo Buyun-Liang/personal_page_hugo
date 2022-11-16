@@ -24,11 +24,11 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at NeurIPS Workshop on Optimization for Machine Learning (OPT 2022)
-publication_short: Under review at NeurIPS Workshop on Optimization for Machine Learning (OPT 2022)
+publication: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication_short: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
 
 abstract: Optimizing nonconvex (NCVX) problems, especially nonsmooth and constrained ones, is an essential part of machine learning. However, it can be hard to reliably solve such problems without optimization expertise. Existing general-purpose NCVX optimization packages are powerful but typically cannot handle nonsmoothness. GRANSO is among the first optimization solvers targeting general nonsmooth NCVX problems with nonsmooth constraints, but, as it is implemented in MATLAB and requires the user to provide analytical gradients, GRANSO is often not a convenient choice in machine learning (especially deep learning) applications. To greatly lower the technical barrier, we introduce a new software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. NCVX is built on freely available and widely used open-source frameworks, and as a highlight, can solve general constrained deep learning problems, the first of its kind. NCVX is available at https://ncvx.org/, with detailed documentation and numerous examples from machine learning and other fields.
 
@@ -44,8 +44,8 @@ featured: true
 links:
 - name: Paper
   url: https://arxiv.org/abs/2210.00973
-# - name: Website
-#   url: https://ncvx.org/
+- name: Poster
+  url: 'publication/NCVX_exp/NCVX_poster.png'
 
 
 url_pdf: ''
