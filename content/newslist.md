@@ -1,3 +1,5 @@
+**[Nov 26, 2022]** To be a Reviewer for [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/).
+
 **[Nov 10, 2022]** Our tutorial proposal [Deep Learning with Nontrivial Constraints](publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf) has been accepted to SIAM International Conference on Data Mining (SDM23) Tutorial Program as a two-hour tutorial! 
 
 **[Oct 20, 2022]** Our paper [NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning](https://arxiv.org/abs/2210.00973) has been accepted by Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022), see our [poster](publication/NCVX_exp/NCVX_poster.png) for more details!
