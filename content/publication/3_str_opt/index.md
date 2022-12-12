@@ -1,5 +1,5 @@
 ---
-title: 'On optimization and Optimizers in Neural Structural Optimization'
+title: 'Neural Topology Optimization with Principled Constrained Optimization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,9 +14,9 @@ authors:
   - Ju Sun
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2022-10-11T00:00:00Z'
 doi: ''
