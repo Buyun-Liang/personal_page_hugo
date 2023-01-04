@@ -5,7 +5,7 @@ subtitle: February 12, 2022 | Champlin, MN
 # Summary for listings and search engines
 summary: "Body Weight: 76.35kg. Squat: 157.5kg; Bench Press: 105kg; Deadlift: 180kg. Total 442.5kg. "
 
-
+tags: ["Selected"]
 
 
 

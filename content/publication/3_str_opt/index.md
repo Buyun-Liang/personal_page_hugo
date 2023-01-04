@@ -31,8 +31,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at Transactions on Machine Learning Research (TMLR)
-publication_short: Under review at Transactions on Machine Learning Research (TMLR)
+publication: In preparation for Transactions on Machine Learning Research (TMLR)
+publication_short: In preparation for Transactions on Machine Learning Research (TMLR)
 
 abstract: 
 
