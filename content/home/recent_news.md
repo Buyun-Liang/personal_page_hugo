@@ -51,4 +51,4 @@ subtitle = "[All news >>](/news)"
 +++
 
 
-{{< readfromfile "/content/newslist.md" 5 >}} 
+{{< readfromfile "/content/newslist.md" 15 >}} 
