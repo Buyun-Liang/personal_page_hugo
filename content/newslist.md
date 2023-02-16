@@ -1,4 +1,8 @@
-**[Nov 26, 2022]** To be a Reviewer for [2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)](https://2023.ieeeicassp.org/).
+**[Apr 29, 2023. Upcoming event]** Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials).
+
+**[Feb 16, 2023]** Our paper [Optimization for Robustness Evaluation beyond ℓp Metrics](https://arxiv.org/abs/2210.00621) has been accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)!
+
+**[Feb 4, 2023]** To be a Reviewer for [the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)](https://www.auai.org/uai2023/).
 
 **[Nov 10, 2022]** Our tutorial proposal [Deep Learning with Nontrivial Constraints](publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf) has been accepted to SIAM International Conference on Data Mining (SDM23) Tutorial Program as a two-hour tutorial! 
 
