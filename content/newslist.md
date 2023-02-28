@@ -1,5 +1,7 @@
 **[Apr 29, 2023. Upcoming event]** Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials).
 
+**[Feb 28, 2023]** I am thrilled to join [Prof. René Vidal](http://vision.jhu.edu/rvidal.html)'s group as a [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/) this Fall! 
+
 **[Feb 16, 2023]** Our paper [Optimization for Robustness Evaluation beyond ℓp Metrics](https://arxiv.org/abs/2210.00621) has been accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)!
 
 **[Feb 4, 2023]** To be a Reviewer for [the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)](https://www.auai.org/uai2023/).
