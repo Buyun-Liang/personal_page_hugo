@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Optimization for Deep Learning
-  - Robustness in Vision Recognition
-  - AI for Science & Engineering
+  - Optimization for AI
+  - Trustworthy AI
+  - AI for Science
 
 # Education to show in About widget
 education:
@@ -73,9 +73,7 @@ social:
 highlight_name: true
 ---
 
-I am an incoming [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. René Vidal](http://vision.jhu.edu/rvidal.html). I am also a M.S. student in the [Department of Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. Ju Sun](https://sunju.org/). 
-
-Broadly, my research is about **optimization for machine and deep learning**, **robustness in vision recognition** and **AI for science and engineering**. Specifically, I am interested in: 1). **User-friendly and scalable software for constrained optimization in deep learning**; 2). **Adversarial robustness in computer vision**; 3). **AI for topology optimization**; 
+I am an incoming [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. René Vidal](http://vision.jhu.edu/rvidal.html). I am also a M.S. student in the [Department of Computer Science & Engineering](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. Ju Sun](https://sunju.org/). My research interests have spanned **optimization for AI**, **trustworthy AI** and **AI for science**. 
 
 Prior to this, I obtained my first M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), and my B.S. degree from the [School of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp).
 Before joining [Prof. Ju Sun](https://sunju.org/)'s group, I worked as a research assistant in [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/)'s computational chemistry group.
