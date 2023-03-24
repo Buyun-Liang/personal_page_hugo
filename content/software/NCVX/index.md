@@ -35,7 +35,7 @@ links:
 
 url_code: 'https://github.com/sun-umn/NCVX'
 url_pdf: 
-url_slides: '/publication/Robustness/Robustness_slides.pdf'
+# url_slides: '/publication/Robustness/Robustness_slides.pdf'
 url_video: ''
 
 # Slides (optional).
