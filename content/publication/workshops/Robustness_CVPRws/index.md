@@ -38,7 +38,7 @@ abstract: Empirical robustness evaluation (RE) of deep learning models against a
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected","Optimization","Robustness"]
+tags: ["Selected","Robustness"]
 
 # Display this page in the Featured widget?
 featured: true
