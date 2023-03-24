@@ -1,12 +1,15 @@
 ---
-title: ' NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning'
+title: 'NCVX: A General-Purpose Optimization Solver for Machine Learning, and Practical Techniques'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - buyun
+  - Wenjie Zhang
+  - Hengyue Liang
   - Tim Mitchell
+  - Ying Cui
   - Ju Sun
 
 # Author notes (optional)
@@ -14,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-10-04T00:00:00Z'
+date: '2023-03-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,36 +27,40 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
-publication_short: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+publication_short: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
-abstract: Optimizing nonconvex (NCVX) problems, especially nonsmooth and constrained ones, is an essential part of machine learning. However, it can be hard to reliably solve such problems without optimization expertise. Existing general-purpose NCVX optimization packages are powerful but typically cannot handle nonsmoothness. GRANSO is among the first optimization solvers targeting general nonsmooth NCVX problems with nonsmooth constraints, but, as it is implemented in MATLAB and requires the user to provide analytical gradients, GRANSO is often not a convenient choice in machine learning (especially deep learning) applications. To greatly lower the technical barrier, we introduce a new software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. NCVX is built on freely available and widely used open-source frameworks, and as a highlight, can solve general constrained deep learning problems, the first of its kind. NCVX is available at https://ncvx.org/, with detailed documentation and numerous examples from machine learning and other fields.
+abstract: Constraints are new and increasingly trendy in machine and deep learning, stimulated by, e.g., neuro-symbolic AI that tries to incorporate knowledge and reasoning, scientific applications that need to respect physical laws and constraints, and trustworthy AI that performs robust optimization over complicated perturbation sets. However, optimization expertise is necessary to reliably solve such problems. In practice, people usually try to avoid complicated constraints, and if constraints cannot be avoided, people may use naive methods to handle constraints. To lower the technical barrier for constrained machine and deep learning, we introduced our software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. This software package is the first of its kind to solve deep learning problems with highly nontrivial, usually nonsmooth, constraints. We show on a wide variety of constrained machine and deep learning problems that our NCVX PyGRANSO is powerful enough to deal with any complicated constraints, which even involves neural networks. We also provided practical techniques such as reparameterization, constraints folding and problem rescaling to speed up convergence of NCVX PyGRANSO.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["Selected", "Optimization"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.00973
-- name: Poster
-  url: 'publication/NCVX_exp/NCVX_poster.png'
+- name: Website
+  url: https://ncvx.org/
+- name: ICCOPT22 Slides
+  url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+- name: SDM2023 Tutorial
+  url: 'publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf'
+- name: ICASSP 2023 Tutorial
+  url: 'publication/NCVX_exp/2023_ICASSP_PyGRANSO_Tutorial.pdf'
 
-
-url_pdf: ''
+# url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+# url_slides: '/ICCOPT22-NCVX.pdf'
 url_source: ''
 url_video: ''
 

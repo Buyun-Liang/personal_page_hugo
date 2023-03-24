@@ -1,24 +1,22 @@
 ---
-title: 'Neural Topology Optimization with Principled Constrained Optimization'
+title: 'Optimization for Robustness Evaluation beyond ℓp Metrics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - buyun
-  - Ryan de Vera
   - Hengyue Liang
+  - buyun
   - Ying Cui
   - Tim Mitchell
-  - Qizhi He
   - Ju Sun
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2023-01-02T00:00:00Z'
+date: '2022-10-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,26 +26,28 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for Transactions on Machine Learning Research (TMLR)
-publication_short: In preparation for Transactions on Machine Learning Research (TMLR)
+publication: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication_short: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
 
-abstract: Topology optimization (TO) is a mathematical approach to mechanical and multiphysics design with the objective of maximizing structural performance under physical and manufacturing constraints. However, applying conventional TO to the design of metamaterials remains challenging due to the existence of implicit physical constraints, combinatorial constraints, and nonlinear physical constraints. Thus, we proposed a user-friendly TO computing framework for general nonlinear metamaterial design. Our contributions included proposing and implementing the TO computing framework and benchmarking its performance. The framework shows advantages in tackling the following difficulties. 1). Implicit Physical Constraints---the manufacturable structure should not have spatially isolated components, but classical methods never explicitly formulated it. Thus, we use the deep image prior (DIP) technique to reparameterize the optimization variables, which is expected to bias toward spatially smooth structures; 2). Combinatorial Constraints---we designed a generalized straight-through technique and its equivalent reformulation to deal with the combinatorial constraint; 3). Nonlinear Physical Constraints---SOTA methods can not handle nonlinear physical constraints. Our TO computing framework successfully solved various design problems including multi-story buildings and supporting bridges with SOTA compliance (i.e., the objective function in TO) and guaranteed feasibility.
+abstract: Empirical evaluation of neural network models against adversarial perturbations entail solving nontrivial constrained optimization problems. Practical algorithms rely on numerical methods such as projected gradient and iterative linearization to find suboptimal points, leading to overestimation of the robust accuracy. To reliably solve these problems, we describe an algorithmic framework that blends a state-of-the-art constrained-optimization solver PyGRANSO, with a constraint-folding technique, called PWCF. PWCF can handle general attack models that are inaccessible to existing algorithms. Empirically, PWCF finds good-quality solutions with reasonable speed. Moreover, we explore the distinct patterns of the solutions found with various combinations of the loss, distance, and optimization algorithm, and discuss the implications of these patterns on robustness evaluation.  
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["Selected","Optimization","Robustness"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: ICCOPT22 Slides
-#   url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2210.00621
+- name: Poster
+  url: 'publication/Robustness/robustness_poster.png'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'

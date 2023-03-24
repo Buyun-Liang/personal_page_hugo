@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -24,6 +24,19 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+
+  filter_default: 0
+  filter_button:
+    - name: Selected
+      tag: 'Selected'
+    - name: OPT for AI
+      tag: 'Optimization'
+    - name: Trustworthy AI
+      tag: 'Robustness'
+    - name: 'AI for Science'
+      tag: 'AI4Science'
+    - name: All
+      tag: '*'
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by

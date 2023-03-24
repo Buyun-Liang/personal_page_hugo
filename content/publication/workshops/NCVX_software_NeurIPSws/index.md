@@ -1,13 +1,11 @@
 ---
-title: 'Optimization for Robustness Evaluation beyond ℓp Metrics'
+title: ' NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hengyue Liang
   - buyun
-  - Ying Cui
   - Tim Mitchell
   - Ju Sun
 
@@ -16,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-10-03T00:00:00Z'
+date: '2022-10-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,15 +27,15 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
-publication_short: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication_short: In Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
 
-abstract: Empirical evaluation of neural network models against adversarial perturbations entail solving nontrivial constrained optimization problems. Practical algorithms rely on numerical methods such as projected gradient and iterative linearization to find suboptimal points, leading to overestimation of the robust accuracy. To reliably solve these problems, we describe an algorithmic framework that blends a state-of-the-art constrained-optimization solver PyGRANSO, with a constraint-folding technique, called PWCF. PWCF can handle general attack models that are inaccessible to existing algorithms. Empirically, PWCF finds good-quality solutions with reasonable speed. Moreover, we explore the distinct patterns of the solutions found with various combinations of the loss, distance, and optimization algorithm, and discuss the implications of these patterns on robustness evaluation.  
+abstract: Optimizing nonconvex (NCVX) problems, especially nonsmooth and constrained ones, is an essential part of machine learning. However, it can be hard to reliably solve such problems without optimization expertise. Existing general-purpose NCVX optimization packages are powerful but typically cannot handle nonsmoothness. GRANSO is among the first optimization solvers targeting general nonsmooth NCVX problems with nonsmooth constraints, but, as it is implemented in MATLAB and requires the user to provide analytical gradients, GRANSO is often not a convenient choice in machine learning (especially deep learning) applications. To greatly lower the technical barrier, we introduce a new software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. NCVX is built on freely available and widely used open-source frameworks, and as a highlight, can solve general constrained deep learning problems, the first of its kind. NCVX is available at https://ncvx.org/, with detailed documentation and numerous examples from machine learning and other fields.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["Selected","Optimization"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,16 +43,17 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2210.00621
+  url: https://arxiv.org/abs/2210.00973
 - name: Poster
-  url: 'publication/Robustness/robustness_poster.png'
+  url: 'publication/NCVX_exp/NCVX_poster.png'
 
-# url_pdf: 'https://arxiv.org/abs/2111.13984'
+
+url_pdf: ''
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: 'publication/Robustness/Robustness_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

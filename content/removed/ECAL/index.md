@@ -43,7 +43,7 @@ abstract: The 72,000 lead tungstate crystals in CMS experiment at the CERN Large
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: no
 
 # Custom links (uncomment lines below)
 links:
