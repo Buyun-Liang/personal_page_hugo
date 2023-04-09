@@ -1,5 +1,7 @@
 **Upcoming tutorial**: Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). (Apr 29, 2023)
 
+[M.S. final defense](publication/NCVX_exp/MS_final_dense.pdf)! Special thanks to my advisor [Prof. Ju Sun](https://sunju.org/)!  (Apr 7, 2023)
+
 **Paper release**: Proud to release our paper [Optimization and Optimizers for Adversarial Robustness](https://arxiv.org/abs/2303.13401) on arXiv! We have created the first general-purpose method for evaluating adversarial robustness and challenged the reliability of the existing robustness evaluation and adversarial training frameworks. (Mar 24, 2023)
 
 **Paper acceptance**: Our paper [Implications of Solution Patterns on Adversarial Robustness](https://arxiv.org/abs/2303.13401) has been accepted by Computer Vision and Pattern Recognition (CVPR) Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness! (Mar 22, 2023)
