@@ -1,4 +1,6 @@
-**Upcoming tutorial**: Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). (Apr 29, 2023)
+**Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the [Midwest ML Symposium (MMLS 2023)](https://www.midwest-ml.org/2023/). (May 16-17, 2023)
+
+**Upcoming event**: Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). (Apr 29, 2023)
 
 [M.S. final defense](publication/NCVX_exp/MS_final_dense.pdf)! Special thanks to my advisor [Prof. Ju Sun](https://sunju.org/)!  (Apr 7, 2023)
 
