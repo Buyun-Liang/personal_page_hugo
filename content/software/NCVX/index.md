@@ -32,6 +32,14 @@ links:
     icon_pack: fab
     name: ICCOPT22 Slides
     url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+  - icon: 
+    icon_pack: fab
+    name: SDM 2023 slides
+    url: publication/NCVX_exp/SDM23_Deep_Learning_with_Nontrivial_Constraints.pdf
+  - icon: 
+    icon_pack: fab
+    name: MMLS 2023 Poster
+    url: publication/NCVX_exp/MMLS_Poster.pdf
 
 url_code: 'https://github.com/sun-umn/NCVX'
 url_pdf: 

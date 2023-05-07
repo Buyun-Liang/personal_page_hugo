@@ -1,12 +1,12 @@
-**Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the [Midwest ML Symposium (MMLS 2023)](https://www.midwest-ml.org/2023/). (May 16-17, 2023)
+**Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the [Midwest ML Symposium (MMLS 2023)](https://www.midwest-ml.org/2023/). See our [poster](publication/NCVX_exp/MMLS_Poster.pdf) for more details! (May 16-17, 2023)
 
-**Upcoming event**: Tutorial on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). (Apr 29, 2023)
+**Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). See our [slides](publication/NCVX_exp/SDM23_Deep_Learning_with_Nontrivial_Constraints.pdf) for more details! (Apr 29, 2023)
 
 [M.S. final defense](publication/NCVX_exp/MS_final_dense.pdf)! Special thanks to my advisor [Prof. Ju Sun](https://sunju.org/)!  (Apr 7, 2023)
 
 **Paper release**: Proud to release our paper [Optimization and Optimizers for Adversarial Robustness](https://arxiv.org/abs/2303.13401) on arXiv! We have created the first general-purpose method for evaluating adversarial robustness and challenged the reliability of the existing robustness evaluation and adversarial training frameworks. (Mar 24, 2023)
 
-**Paper acceptance**: Our paper [Implications of Solution Patterns on Adversarial Robustness](https://arxiv.org/abs/2303.13401) has been accepted by Computer Vision and Pattern Recognition (CVPR) Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness! (Mar 22, 2023)
+**Paper acceptance**: Our paper [Implications of Solution Patterns on Adversarial Robustness](https://robustart.github.io/long_paper/39.pdf) has been accepted by Computer Vision and Pattern Recognition (CVPR) Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness! (Mar 22, 2023)
 
 I am thrilled to join [Prof. René Vidal](http://vision.jhu.edu/rvidal.html)'s group as a [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/) this Fall! (Feb 28, 2023)
 

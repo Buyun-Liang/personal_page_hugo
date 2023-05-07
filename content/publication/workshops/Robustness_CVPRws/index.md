@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: 'https://arxiv.org/abs/2303.13401'
+  url: 'https://robustart.github.io/long_paper/39.pdf'
 # - name: Slides
 #   url: 'publication/Robustness/Robustness_slides.pdf'
 

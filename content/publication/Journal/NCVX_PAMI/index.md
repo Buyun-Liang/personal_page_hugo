@@ -50,10 +50,15 @@ links:
   url: https://ncvx.org/
 - name: ICCOPT22 Slides
   url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
-- name: SDM2023 Tutorial
+- name: SDM2023 Tutorial Proposal
   url: 'publication/NCVX_exp/2023_SDM_PyGRANSO_Tutorial.pdf'
-- name: ICASSP 2023 Tutorial
-  url: 'publication/NCVX_exp/2023_ICASSP_PyGRANSO_Tutorial.pdf'
+- name: SDM 2023 slides
+  url: publication/NCVX_exp/SDM23_Deep_Learning_with_Nontrivial_Constraints.pdf
+# - name: ICASSP 2023 Tutorial
+#   url: 'publication/NCVX_exp/2023_ICASSP_PyGRANSO_Tutorial.pdf'
+- name: MMLS 2023 Poster
+  url: publication/NCVX_exp/MMLS_Poster.pdf
+
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
