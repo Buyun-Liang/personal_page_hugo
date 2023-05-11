@@ -1,3 +1,5 @@
+**Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the 3M Poster Session. (Jun 7, 2023)
+
 **Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the [Midwest ML Symposium (MMLS 2023)](https://www.midwest-ml.org/2023/). See our [poster](publication/NCVX_exp/MMLS_Poster.pdf) for more details! (May 16-17, 2023)
 
 **Tutorial** on [Deep Learning with Nontrivial Constraints](https://ncvx.org/tutorials/SDM23.html) in the [SIAM International Conference on Data Mining (SDM23)](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials). See our [slides](publication/NCVX_exp/SDM23_Deep_Learning_with_Nontrivial_Constraints.pdf) for more details! (Apr 29, 2023)
