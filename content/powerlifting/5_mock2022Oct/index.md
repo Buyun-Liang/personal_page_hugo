@@ -4,7 +4,7 @@ subtitle: October 08, 2022 | Minneapolis, MN
 
 # Summary for listings and search engines
 summary: "Body Weight: 77.1kg. Squat: 163.3kg; Bench Press: 115.7kg; Deadlift: 192.8kg. Total 471.7kg. "
-tags: ["Selected"]
+tags: []
 
 
 
