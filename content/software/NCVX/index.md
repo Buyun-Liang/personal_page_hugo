@@ -40,6 +40,10 @@ links:
     icon_pack: fab
     name: MMLS 2023 Poster
     url: publication/NCVX_exp/MMLS_Poster.pdf
+  - icon: 
+    icon_pack: fab
+    name: 3M Poster (2023)
+    url: publication/NCVX_exp/3M_Poster_NCVX.pdf
 
 url_code: 'https://github.com/sun-umn/NCVX'
 url_pdf: 

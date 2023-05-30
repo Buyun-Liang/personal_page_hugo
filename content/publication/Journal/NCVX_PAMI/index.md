@@ -58,7 +58,8 @@ links:
 #   url: 'publication/NCVX_exp/2023_ICASSP_PyGRANSO_Tutorial.pdf'
 - name: MMLS 2023 Poster
   url: publication/NCVX_exp/MMLS_Poster.pdf
-
+- name: 3M Poster (2023)
+  url: publication/NCVX_exp/3M_Poster_NCVX.pdf
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
