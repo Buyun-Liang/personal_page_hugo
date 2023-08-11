@@ -6,7 +6,7 @@ title: Buyun Liang
 superuser: true
 
 # Role/position/tagline
-role: Incoming Computer and Information Science Ph.D. Student 
+role: Computer and Information Science Ph.D. Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,6 +73,6 @@ social:
 highlight_name: true
 ---
 
-I am an incoming [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. René Vidal](http://vision.jhu.edu/rvidal.html). My research interests have spanned **optimization for AI**, **trustworthy AI** and **AI for science**. Before joining Penn, I obtained a M.S. degree in [Computer Science](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. Ju Sun](https://sunju.org/), a M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/), and a B.S. degree in [Physics](https://physics.nju.edu.cn/english/home/index.html) at [Nanjing University](https://www.nju.edu.cn/en/main.psp).
+I am a [Computer and Information Science](https://www.cis.upenn.edu/) Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. René Vidal](http://vision.jhu.edu/rvidal.html). My research interests have spanned **optimization for AI**, **trustworthy AI** and **AI for science**. Before joining Penn, I obtained a M.S. degree in [Computer Science](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. Ju Sun](https://sunju.org/), a M.S. degree in [Materials Science](https://cse.umn.edu/cems) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), advised by [Prof. J. Ilja Siepmann](https://siepmann.chem.umn.edu/), and a B.S. degree in [Physics](https://physics.nju.edu.cn/english/home/index.html) at [Nanjing University](https://www.nju.edu.cn/en/main.psp).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "CV/Buyun_Liang_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

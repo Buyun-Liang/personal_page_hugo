@@ -1,4 +1,4 @@
-**Upcoming event**: Poster on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/3M_Poster_NCVX.pdf) in the 3M Poster Session. (Jun 7, 2023)
+**Poster** on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/3M_Poster_NCVX.pdf) in the 3M Poster Session. (Jun 7, 2023)
 
 **Poster** on [When Deep Learning Meets Nontrivial Constraints](publication/NCVX_exp/MMLS_2023_Poster_Constr_DL.pdf) in the [Midwest ML Symposium (MMLS 2023)](https://www.midwest-ml.org/2023/). See our [poster](publication/NCVX_exp/MMLS_Poster.pdf) for more details! (May 16-17, 2023)
 
