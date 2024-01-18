@@ -60,4 +60,6 @@ design:
   columns: '1'
 ---
 
-<center><a href='https://clustrmaps.com/site/1bl74'  title='Visit tracker'><img src='https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=CwDUhKnGcKCXK8HdXThiaP6qjx27qMXwYzKq9EDe34o&co=599dcd&ct=ffffff'> </a> </center></br>
+<!-- <center><a href='https://clustrmaps.com/site/1bl74'  title='Visit tracker'><img src='https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=CwDUhKnGcKCXK8HdXThiaP6qjx27qMXwYzKq9EDe34o&co=599dcd&ct=ffffff'> </a> </center></br> -->
+
+<center> <a href='https://clustrmaps.com/site/1by7f'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=304&t=n&d=IMG9KC9Yv48L4nU-8vj-0vmCUiWoCYVjbbMTrZTXFyo'/></a> </center></br>

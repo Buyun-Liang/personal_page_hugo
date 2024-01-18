@@ -30,8 +30,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-publication_short: In preparation for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+publication: In preparation
+publication_short: In preparation
 
 abstract: Constraints are new and increasingly trendy in machine and deep learning, stimulated by, e.g., neuro-symbolic AI that tries to incorporate knowledge and reasoning, scientific applications that need to respect physical laws and constraints, and trustworthy AI that performs robust optimization over complicated perturbation sets. However, optimization expertise is necessary to reliably solve such problems. In practice, people usually try to avoid complicated constraints, and if constraints cannot be avoided, people may use naive methods to handle constraints. To lower the technical barrier for constrained machine and deep learning, we introduced our software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. This software package is the first of its kind to solve deep learning problems with highly nontrivial, usually nonsmooth, constraints. We show on a wide variety of constrained machine and deep learning problems that our NCVX PyGRANSO is powerful enough to deal with any complicated constraints, which even involves neural networks. We also provided practical techniques such as reparameterization, constraints folding and problem rescaling to speed up convergence of NCVX PyGRANSO.
 
@@ -39,7 +39,7 @@ abstract: Constraints are new and increasingly trendy in machine and deep learni
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected", "Optimization"]
+tags: ["Optimization"]
 
 # Display this page in the Featured widget?
 featured: true
