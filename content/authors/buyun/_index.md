@@ -18,8 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Optimization for AI
   - Trustworthy AI
+  - Optimization for AI
   - AI for Science
 
 # Education to show in About widget
@@ -51,7 +51,7 @@ social:
   #   link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=f64jADwAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=jXnAG9wAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Buyun-Liang

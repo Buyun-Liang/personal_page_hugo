@@ -46,7 +46,7 @@ content:
     - icon: graduation-cap
       icon_pack: fas
       name: Google Scholar
-      link: 'https://scholar.google.com/citations?user=f64jADwAAAAJ&hl=en&oi=ao'  
+      link: 'https://scholar.google.com/citations?hl=en&user=jXnAG9wAAAAJ'  
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
