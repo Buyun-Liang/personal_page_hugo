@@ -1,5 +1,5 @@
 ---
-title: 'Optimization for Adversarial Robustness Evaluations and Implications from the Solution Patterns'
+title: 'Optimization for Robustness Evaluation beyond ℓp Metrics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,6 @@ title: 'Optimization for Adversarial Robustness Evaluations and Implications fro
 authors:
   - Hengyue Liang
   - buyun
-  - Le Peng
   - Ying Cui
   - Tim Mitchell
   - Ju Sun
@@ -17,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-03-24T00:00:00Z'
+date: '2022-10-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,35 +26,39 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at International Journal of Computer Vision (IJCV)
-publication_short: Under review at International Journal of Computer Vision (IJCV)
+publication: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication_short: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
 
-abstract: Empirical evaluation of deep learning models against adversarial perturbations entails solving nontrivial constrained optimization problems. Existing numerical algorithms commonly used in practice to solve these problems predominantly rely on using projected gradient methods and mostly handle perturbations modeled by ℓ1, ℓ2 and ℓ∞ distance metrics. In this paper, we introduce a novel algorithmic framework that blends a general-purpose constrained-optimization solver PyGRANSO With Constraint-Folding (PWCF), which can add more reliability and generality to the state-of-the-art (SOTA) algorithms (e.g., AutoAttack). Regarding reliability, PWCF provide solutions with stationarity measures to assess the solution quality, and is generally free from delicate hyperparameter tuning. For generality, PWCF can handle much more general perturbation models (e.g., modeled by any piece-wise differentiable metric) which are inaccessible to the existing project gradient methods. With PWCF, we further explore the distinct solution patterns found by various combinations of losses, perturbation models, and optimization algorithms used in robustness evaluation, and discuss the possible implications of these patterns on the current robustness evaluation and adversarial training.
+abstract: Empirical evaluation of neural network models against adversarial perturbations entail solving nontrivial constrained optimization problems. Practical algorithms rely on numerical methods such as projected gradient and iterative linearization to find suboptimal points, leading to overestimation of the robust accuracy. To reliably solve these problems, we describe an algorithmic framework that blends a state-of-the-art constrained-optimization solver PyGRANSO, with a constraint-folding technique, called PWCF. PWCF can handle general attack models that are inaccessible to existing algorithms. Empirically, PWCF finds good-quality solutions with reasonable speed. Moreover, we explore the distinct patterns of the solutions found with various combinations of the loss, distance, and optimization algorithm, and discuss the implications of these patterns on robustness evaluation.  
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected","Robustness"]
+tags: ["Selected","Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Paper
-  url: 'https://arxiv.org/abs/2303.13401'
-# - name: Slides
-#   url: 'publication/Robustness/Robustness_slides.pdf'
+- name: ICASSP Page
+  url: 'https://ieeexplore.ieee.org/abstract/document/10095871'
+- name: NeurIPS Page
+  url: 'https://neurips.cc/virtual/2022/57139'
+- name: arXiv
+  url: https://arxiv.org/abs/2210.00621
+- name: Poster
+  url: 'publication/Robustness/robustness_poster.png'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+# url_slides: 'publication/Robustness/Robustness_slides.pdf'
 url_source: ''
 url_video: ''
 

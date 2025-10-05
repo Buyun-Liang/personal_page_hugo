@@ -1,22 +1,23 @@
 ---
-title: 'Optimization for Robustness Evaluation beyond ℓp Metrics'
+title: 'SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hengyue Liang
   - buyun
-  - Ying Cui
-  - Tim Mitchell
-  - Ju Sun
+  - Liangzu Peng
+  - Jinqi Luo
+  - Darshan Thaker
+  - Kwan Ho Ryan Chan
+  - René Vidal
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-10-03T00:00:00Z'
+date: '2025-10-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,32 +30,36 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
-publication_short: In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023) & Neural Information Processing Systems (NeurIPS) Workshop on Optimization for Machine Learning (OPT 2022)
+publication: In The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
 
-abstract: Empirical evaluation of neural network models against adversarial perturbations entail solving nontrivial constrained optimization problems. Practical algorithms rely on numerical methods such as projected gradient and iterative linearization to find suboptimal points, leading to overestimation of the robust accuracy. To reliably solve these problems, we describe an algorithmic framework that blends a state-of-the-art constrained-optimization solver PyGRANSO, with a constraint-folding technique, called PWCF. PWCF can handle general attack models that are inaccessible to existing algorithms. Empirically, PWCF finds good-quality solutions with reasonable speed. Moreover, we explore the distinct patterns of the solutions found with various combinations of the loss, distance, and optimization algorithm, and discuss the implications of these patterns on robustness evaluation.  
+publication_short: In The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+abstract: "Large Language Models (LLMs) are increasingly deployed in high-risk domains. However, state-of-the-art LLMs often produce hallucinations, raising serious concerns about their reliability. Prior work has explored adversarial attacks for hallucination elicitation in LLMs, but they often produce unrealistic prompts—by either inserting gibberish tokens or altering the original meaning—thus offering limited insight into how hallucinations may occur in practice. While adversarial attacks in computer vision often involve realistic modifications to input images, the problem of finding realistic adversarial prompts for eliciting LLM hallucinations has remained largely underexplored. To address this gap, we propose Semantically Equivalent and Coherent Attacks (SECA) to elicit hallucinations via realistic modifications to the prompt that preserve its meaning while maintaining semantic coherence. Our contributions are threefold: (i) we formulate realistic attacks for hallucination elicitation as a constrained optimization problem over the input prompt space under semantic equivalence and coherence constraints; (ii) we introduce a constraint-preserving zeroth-order method to effectively search for adversarial yet feasible prompts; and (iii) we demonstrate through experiments on open-ended multiple-choice question answering tasks that SECA achieves higher attack success rates while incurring almost no constraint violations compared to existing methods. SECA highlights the sensitivity of both open-source and commercial gradient-inaccessible LLMs to realistic and plausible prompt variations."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected","Robustness"]
+tags: ["Selected","Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Paper
-  url: https://arxiv.org/abs/2210.00621
-- name: Poster
-  url: 'publication/Robustness/robustness_poster.png'
+- name: NeurIPS Page
+  url: 'https://neurips.cc/virtual/2025/poster/119640'
+- name: Code
+  url: 'https://github.com/Buyun-Liang/SECA'
+# - name: Slides
+#   url: 'publication/Robustness/Robustness_slides.pdf'
 
 # url_pdf: 'https://arxiv.org/abs/2111.13984'
-# url_code: 'https://github.com/sun-umn/NCVX'
+
+# url_code: 'https://github.com/Buyun-Liang/SECA'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: 'publication/Robustness/Robustness_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

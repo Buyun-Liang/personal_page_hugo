@@ -1,24 +1,21 @@
 ---
-title: 'Neural Topology Optimization with Principled Constrained Optimization'
+title: 'Effect of Non-Condensable Gas on the Thermophysical Properties of Bubbly Water and on Bubble Collapse Dynamics Probed by Molecular Simulations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - J. Ilja Siepmann
+  - Jingyi L. Chen
   - buyun
-  - Ryan de Vera
-  - Hengyue Liang
-  - Ying Cui
-  - Tim Mitchell
-  - Qizhi He
-  - Ju Sun
+  - Krishnan Mahesh
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2023-03-02T00:00:00Z'
+date: '2020-04-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +25,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for Structural and Multidisciplinary Optimization
-publication_short: In preparation for Structural and Multidisciplinary Optimization
+publication: 33rd Symposium on Naval Hydrodynamics, Osaka, Japan, 18-23 October 2020
+publication_short: 33rd Symposium on Naval Hydrodynamics, Osaka, Japan, 18-23 October 2020
 
-abstract: Topology optimization (TO) is a mathematical approach to mechanical and multiphysics design with the objective of maximizing structural performance under physical and manufacturing constraints. However, applying conventional TO to the design of metamaterials remains challenging due to the existence of implicit physical constraints, combinatorial constraints, and nonlinear physical constraints. Thus, we proposed a user-friendly TO computing framework for general nonlinear metamaterial design. Our contributions included proposing and implementing the TO computing framework and benchmarking its performance. The framework shows advantages in tackling the following difficulties. 1). Implicit Physical Constraints---the manufacturable structure should not have spatially isolated components, but classical methods never explicitly formulated it. Thus, we use the deep image prior (DIP) technique to reparameterize the optimization variables, which is expected to bias toward spatially smooth structures; 2). Combinatorial Constraints---we designed a generalized straight-through technique and its equivalent reformulation to deal with the combinatorial constraint; 3). Nonlinear Physical Constraints---SOTA methods can not handle nonlinear physical constraints. Our TO computing framework successfully solved various design problems including multi-story buildings and supporting bridges with SOTA compliance (i.e., the objective function in TO) and guaranteed feasibility.
+abstract: Numerical results and visualizations for equilibrium properties of bubbly water and for bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for coarse-grained water and nitrogen models are presented and discussed to elucidate the effects of nitrogen and to provide insights for improving the underlying physical assumptions used in computational fluid dynamics studies of multi-phase flow. With regard to equilibrium properties, our simulations indicate that, at room temperature, the solubility of nitrogen increases significantly as water is placed under tension (i.e., homogeneously stretched water), but that the effects of nitrogen on bubble volume fraction and bubble stability are relatively small. Molecular dynamics simulations for the collapse of a vapor bubble indicate that very large system sizes (> 10^7 molecules) are needed to reach convergent behavior. Here, supersonic speeds for the decrease of the bubble radius are reached preceding the initial bubble collapse. Concomitantly, extreme local heating with temperatures exceeding 2000 K for more than 1% of the molecules at the center of the collapsing bubble is observed. After initial collapse, the bubble rebounds and a high-density wave propagates outward at supersonic speeds. The presence of nitrogen (at a mole fraction of 1.2 × 10^−5 corresponding to the amount of nitrogen in aqueous solution at 298 K and a vapor pressure of 1 bar) leads to a slight increase in the bubble collapse time and reduction in the speed for the decrease of the bubble radius before collapse, but the rebound is more pronounced.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,18 +42,20 @@ tags: ["AI4Science"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: ICCOPT22 Slides
-#   url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+links:
+- name: Paper
+  url: publication/comp_chem/33SNH_027-Siepmann.pdf
 
-# url_pdf: 'https://arxiv.org/abs/2111.13984'
+url_pdf: ''
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: 'publication/Robustness/Robustness_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

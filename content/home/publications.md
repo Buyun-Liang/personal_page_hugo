@@ -29,11 +29,11 @@ content:
   filter_button:
     - name: Selected
       tag: 'Selected'
+    - name: Trustworthy AI
+      tag: 'Trustworthy_AI'
     - name: OPT for AI
       tag: 'Optimization'
-    - name: Trustworthy AI
-      tag: 'Robustness'
-    - name: 'AI for Science'
+    - name: 'AI for Science & Scientific Computing'
       tag: 'AI4Science'
     - name: All
       tag: '*'

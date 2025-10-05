@@ -1,11 +1,14 @@
 ---
-title: 'NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning'
+title: 'Optimization and optimizers for adversarial robustness'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Hengyue Liang
   - buyun
+  - Le Peng
+  - Ying Cui
   - Tim Mitchell
   - Ju Sun
 
@@ -14,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-12-26T00:00:00Z'
+date: '2023-03-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,28 +30,27 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv preprint arXiv:2111.13984
-publication_short: ArXiv preprint arXiv:2111.13984
+publication: arXiv preprint arXiv:2303.13401
+publication_short: arXiv preprint arXiv:2303.13401
 
-abstract: Optimizing nonconvex (NCVX) problems, especially nonsmooth and constrained ones, is an essential part of machine learning. However, it can be hard to reliably solve such problems without optimization expertise. Existing general-purpose NCVX optimization packages are powerful but typically cannot handle nonsmoothness. GRANSO is among the first optimization solvers targeting general nonsmooth NCVX problems with nonsmooth constraints, but, as it is implemented in MATLAB and requires the user to provide analytical gradients, GRANSO is often not a convenient choice in machine learning (especially deep learning) applications. To greatly lower the technical barrier, we introduce a new software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. NCVX is built on freely available and widely used open-source frameworks, and as a highlight, can solve general constrained deep learning problems, the first of its kind. NCVX is available at https://ncvx.org/, with detailed documentation and numerous examples from machine learning and other fields.
+abstract: Empirical evaluation of deep learning models against adversarial perturbations entails solving nontrivial constrained optimization problems. Existing numerical algorithms commonly used in practice to solve these problems predominantly rely on using projected gradient methods and mostly handle perturbations modeled by ℓ1, ℓ2 and ℓ∞ distance metrics. In this paper, we introduce a novel algorithmic framework that blends a general-purpose constrained-optimization solver PyGRANSO With Constraint-Folding (PWCF), which can add more reliability and generality to the state-of-the-art (SOTA) algorithms (e.g., AutoAttack). Regarding reliability, PWCF provide solutions with stationarity measures to assess the solution quality, and is generally free from delicate hyperparameter tuning. For generality, PWCF can handle much more general perturbation models (e.g., modeled by any piece-wise differentiable metric) which are inaccessible to the existing project gradient methods. With PWCF, we further explore the distinct solution patterns found by various combinations of losses, perturbation models, and optimization algorithms used in robustness evaluation, and discuss the possible implications of these patterns on the current robustness evaluation and adversarial training.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Paper
-  url: https://arxiv.org/abs/2111.13984
-# - name: Website
-#   url: https://ncvx.org/
+- name: arXiv
+  url: 'https://arxiv.org/abs/2303.13401'
+# - name: Slides
+#   url: 'publication/Robustness/Robustness_slides.pdf'
 
-
-url_pdf: ''
+# url_pdf: 'https://arxiv.org/abs/2111.13984'
 # url_code: 'https://github.com/sun-umn/NCVX'
 url_dataset: ''
 url_poster: ''

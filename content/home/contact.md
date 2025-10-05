@@ -55,10 +55,10 @@ content:
       icon_pack: fab
       name: GitHub
       link: 'https://github.com/Buyun-Liang'
-    - icon: instagram
-      icon_pack: fab
-      name: Powerlifting Training Log
-      link: 'https://www.instagram.com/buyunliang.lifts/'
+    # - icon: instagram
+    #   icon_pack: fab
+    #   name: Powerlifting Training Log
+    #   link: 'https://www.instagram.com/buyunliang.lifts/'
 
 
 design:
